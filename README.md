@@ -22,3 +22,8 @@ In config.json:
 me!load: to steal emojis from servers.
 me!emoji [emoji name]: to use the emoji by its name.
 ```
+
+# Run:
+```bash
+python or python3 main.py
+```
