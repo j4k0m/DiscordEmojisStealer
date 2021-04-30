@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 
 # Set your config
-In config.json"
+In config.json:
 ```json
 {
     "prefix": "me!",
