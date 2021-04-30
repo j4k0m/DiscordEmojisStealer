@@ -16,3 +16,9 @@ In config.json:
     "token": "[YOUR TOKEN]"
 }
 ```
+
+# Usage:
+```
+me!load: to steal emojis from servers.
+me!emoji [emoji name]: to use the emoji by its name.
+```
