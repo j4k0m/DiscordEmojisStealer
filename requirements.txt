@@ -1,5 +1,4 @@
 aiohttp==3.7.4.post0
-arjun==2.1.2
 async-timeout==3.0.1
 attrs==19.1.0
 beautifulsoup4==4.9.3
